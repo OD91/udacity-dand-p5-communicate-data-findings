@@ -1,7 +1,7 @@
 ## Dataset
 
 The data consists of information regarding 5,202,096 entries of flight data of the US, including among others
-delays, airlines, and airports. The dataset can be found [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7),with feature documentation available [here](http://stat-computing.org/dataexpo/2009/the-data.html).
+delays, airlines, and airports. The dataset can be found [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7), with feature documentation available [here](http://stat-computing.org/dataexpo/2009/the-data.html).
 
 ## Summary of Findings
 
@@ -21,4 +21,4 @@ In the exploration, I examined several aspects:
 
 ## Key Insights for Presentation
 
-I examine the the relationships between departure delays and arrival delays as well as the variables airlines, day of the week, top airports as well as . I always try to start by first appying an univariate anlysis, followed by a bivariate analysis and subsequently, when applicable a multivariate analysis to examine the different relationships. I mainly use bar plots and scatter plots for showing my results (summarized in the above summary section).
+I examine the the relationships between departure delays and arrival delays as well as the variables airlines, day of the week, and top airports. I always try to start by first appying an univariate anlysis, followed by a bivariate analysis and subsequently, when applicable a multivariate analysis to examine the different relationships. I mainly use bar plots and scatter plots for showing my results (summarized in the above summary section).
